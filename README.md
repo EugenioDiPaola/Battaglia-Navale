@@ -4,4 +4,11 @@ Esercizio da presentare all'esame di Tecniche di Calcolo della Fisica e assegnat
 
 ![alt text](https://github.com/EugenioDiPaola/Battaglia-Navale/blob/master/Battaglia-Navale-cattura1.PNG)
 
-![alt text](https://github.com/EugenioDiPaola/Battaglia-Navale/blob/master/Battaglia-Navale-cattura1.PNG)
+![alt text](https://github.com/EugenioDiPaola/Battaglia-Navale/blob/master/Screenshots%20terminale/screenshot%20terminale%202.PNG)
+
+![alt text](https://github.com/EugenioDiPaola/Battaglia-Navale/blob/master/Screenshots%20terminale/screenshot%20terminale%203.PNG)
+
+![alt text](https://github.com/EugenioDiPaola/Battaglia-Navale/blob/master/Screenshots%20terminale/screenshot%20terminale%204.PNG)
+
+![alt text](https://github.com/EugenioDiPaola/Battaglia-Navale/blob/master/Screenshots%20terminale/screenshot%20terminale%205.PNG)
+
