@@ -1,6 +1,6 @@
 # Battaglia Navale
 
-Implementazione in C++ a terminale del classico gioco della battaglia navale, con flotte estendibili e campo di gioco di lato variabile; esercizio da presentare e commentare all’esame orale di Tecniche di Calcolo della Fisica e assegnato per comprendere meglio il concetto di composizione.  
+Implementazione a oggetti in C++ a terminale del classico gioco della battaglia navale, con flotte estendibili e campo di gioco di lato variabile; esercizio da presentare e commentare all’esame orale di Tecniche di Calcolo della Fisica e assegnato per comprendere meglio il concetto di composizione.  
   
 Alcune immagini del programma in esecuzione (cliccare sulle immagini per ingrandire).  
 Le 'x' minuscole indicano caselle colpite prive di navi, le 'X' maiuscole indicano caselle colpite contenenti navi avversarie, i punti '.' indicano caselle non ancora colpite occupate o non occupate a secondo di quale giocatore le osserva.
