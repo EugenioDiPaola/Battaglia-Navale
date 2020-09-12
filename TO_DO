@@ -1,0 +1,9 @@
+/*
+1. assegnare una lettera ad ogni nave e quando viene affondata mostrare quella lettera invece di 'C';
+2. migliorare il controllo sugli input;
+3. gestione delle eccezioni quando una nave viene posizionata in parte fuori dalla griglia e 
+   sopra un'altra nave oppure quando viene colpito un punto fuori griglia;
+4. riscrivere in maniera più compatta certe funzioni che si ripetono in funzione di altre (tipo controlloInputDirezione come funzione di controlloInputInt)
+5. aggiustare alcuni errori di formattazione
+6. fare in modo che lo stato della partita venga scritto su un file di testo come salvataggio e che si possa caricare una partita salvata
+ */
