@@ -72,7 +72,7 @@ int controlloInputDirezione(int DIREZIONE)
 	return DIREZIONE;
 }
 
-void flottaPrintGeneralePerAvversario(Giocatore & GIOCATORE) //per ora in realt‡ non c'Ë bisogno di una distinzione tra la flotta printata per l'avversario e quella per se
+void flottaPrintGeneralePerAvversario(Giocatore & GIOCATORE) //per ora in realt√† non c'√® bisogno di una distinzione tra la flotta printata per l'avversario e quella per se
 {
 	for(std::vector<Nave *>::const_iterator it = GIOCATORE.flottaOfGiocatoreGet().flottaOfFlottaGet().begin(); it < GIOCATORE.flottaOfGiocatoreGet().flottaOfFlottaGet().end(); ++it)
 	{
@@ -428,7 +428,7 @@ void dichiarazioneVincitore(Giocatore & GIOCATORE1, Giocatore & GIOCATORE2)
 		GIOCATORE1.punteggioSet(punteggiolocal++);
 	};
 
-	if(GIOCATORE1.flottaOfGiocatoreGet().flottaOfFlottaGet().empty() && GIOCATORE2.flottaOfGiocatoreGet().flottaOfFlottaGet().empty()) std::cout << "la partita Ë finita in parit‡" << std::endl;
+	if(GIOCATORE1.flottaOfGiocatoreGet().flottaOfFlottaGet().empty() && GIOCATORE2.flottaOfGiocatoreGet().flottaOfFlottaGet().empty()) std::cout << "la partita √® finita in parit√†" << std::endl;
 };
 
 void partita(Giocatore & GIOCATORE1, Giocatore & GIOCATORE2, Flotta & FLOTTA_PER_GIOCATORE2, Flotta & FLOTTA_PER_GIOCATORE1, int LATO = 10)
