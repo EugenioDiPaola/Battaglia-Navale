@@ -9,13 +9,13 @@ Le 'x' minuscole indicano caselle colpite prive di navi, le 'X' maiuscole indica
 
 ![alt text](https://github.com/EugenioDiPaola/Battaglia-Navale/blob/master/Screenshots%20terminale/Screenshot%201.PNG?raw=true)
 
-![alt text](https://github.com/EugenioDiPaola/Battaglia-Navale/blob/master/Screenshots%20terminale/screenshot%20terminale%201.PNG)
+![alt text]()
 
-![alt text](https://github.com/EugenioDiPaola/Battaglia-Navale/blob/master/Screenshots%20terminale/screenshot%20terminale%202.PNG)
+![alt text]()
 
-![alt text](https://github.com/EugenioDiPaola/Battaglia-Navale/blob/master/Screenshots%20terminale/screenshot%20terminale%203.PNG)
+![alt text]()
 
-![alt text](https://github.com/EugenioDiPaola/Battaglia-Navale/blob/master/Screenshots%20terminale/screenshot%20terminale%204.PNG)
+![alt text]()
 
-![alt text](https://github.com/EugenioDiPaola/Battaglia-Navale/blob/master/Screenshots%20terminale/screenshot%20terminale%205.PNG)
+![alt text]()
 
