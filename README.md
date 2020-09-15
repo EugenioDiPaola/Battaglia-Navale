@@ -17,5 +17,5 @@ Le 'x' minuscole indicano caselle colpite prive di navi, le 'X' maiuscole indica
 
 ![alt text](https://github.com/EugenioDiPaola/Battaglia-Navale/blob/master/Screenshots%20terminale/screenshot%20terminale%205.PNG?raw=true)
 
-![alt text]()
+![alt text](https://github.com/EugenioDiPaola/Battaglia-Navale/blob/master/Screenshots%20terminale/screenshot%20terminale%206.PNG?raw=true)
 
