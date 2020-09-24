@@ -4,7 +4,7 @@ Implementazione a oggetti in C++ a terminale del classico gioco della battaglia 
   
 I progetti per l'esame erano pensati per essere sviluppati in gruppo ma li ho svolti da solo.
 
-C'è un file eseguibile, non funzionasse di seguito alcune immagini del programma in esecuzione (cliccare sulle immagini per ingrandire).  
+Il file eseguibile è BATTAGLIA_NAVALE_ESEGUIBILE, non funzionasse di seguito alcune immagini del programma in esecuzione (cliccare sulle immagini per ingrandire).  
 Le 'x' minuscole indicano caselle colpite prive di navi, le 'X' maiuscole indicano caselle colpite contenenti navi avversarie, i punti '.' indicano caselle non ancora colpite occupate o non occupate a secondo di quale giocatore le osserva.
 
 ![alt text](https://github.com/EugenioDiPaola/Battaglia-Navale/blob/master/Screenshots%20terminale/screenshot%20terminale%200.PNG?raw=true)
